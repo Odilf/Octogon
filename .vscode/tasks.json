@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Library/PackageCache/com.unity.collab-proxy@1.2.16/",
+			"problemMatcher": [],
+			"label": "npm: install - Library/PackageCache/com.unity.collab-proxy@1.2.16",
+			"detail": "install dependencies from package"
+		}
+	]
+}
